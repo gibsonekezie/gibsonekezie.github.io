@@ -2,7 +2,8 @@
 layout: default
 ---
  
-### Bio.. {I am still figuring out the rest but I'm also learning alot at the sametime}
+### Some Engineer
+### Bio.. {I am still figuring out the rest}
 - 🌱 Interested in Linux, AI infrastructure, Machine Learning, DevOps, Platform Engineering, System Design, Network Automation and Cloud Security.
 - 🏢 New to contributing to open source projects.
 - ⚙️ I use daily: `.py`, `.ps1`, `.yml`, `.sh`,  `.tf`
