@@ -7,7 +7,7 @@ olid: OL7924103W # use Open Library ID to fetch cover (if no `cover` is provided
 isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics crime historical-fiction mystery novels thriller
 tags: top-100
-released: 1969
+released: 1990
 stars: 5
 status: Finished
 ---
