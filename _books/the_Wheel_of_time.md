@@ -1,5 +1,5 @@
 ---
-layout: book-review
+layout: page
 title: The Wheel of Time
 author: Robert Jordan
 cover: assets/img/book_covers/the_wheel_of_time.jpg
@@ -11,3 +11,6 @@ released: 1990
 stars: 5
 status: Finished
 ---
+
+- The Wheel of Time
+  _Robert Jordan 1990_
