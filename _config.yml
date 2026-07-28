@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   these posts serve as a technical resource for learning and research . Based on [*the Puffing Tom](https://github.com/bogoli/-folio) design.
 footer_text: >
   Cloud Architecture, kubernetes, AI & ML Infra Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> & <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  
+
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

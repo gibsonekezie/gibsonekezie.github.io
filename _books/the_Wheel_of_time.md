@@ -2,7 +2,7 @@
 layout: book-review
 title: The Wheel of Time
 author: Robert Jordan
-cover: assets/img/book_covers/the_wheel_of_time.jpg 
+cover: assets/img/book_covers/the_wheel_of_time.jpg
 olid: OL7924103W # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics crime historical-fiction mystery novels thriller
@@ -11,4 +11,3 @@ released: 1969
 stars: 5
 status: Finished
 ---
-
