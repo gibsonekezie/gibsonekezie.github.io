@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: if you're going to try.. go all the way
+subtitle: Be curious,.. not judgemental
 
 profile:
   align: right
