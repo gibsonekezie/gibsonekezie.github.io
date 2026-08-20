@@ -29,4 +29,4 @@ Hello.. I'm an `Infrastructure Engineer` that works broadly on areas of cloud co
 We are in exciting times with growth of AI/ML technologies and the boundaries of what agentic AI systems can do will continuously be pushed but at the sametime I feel the integration of security guardrails should be prioritized to ensure safety users. I'm a huge fan of [Software Should Work](https://softwareshould.work/){:target="_blank"}, you should watch this amazing Talk [Don't Take The Black Pill](https://www.youtube.com/watch?v=zLZwpH5lCD4&list=PLYHMN-0pC7n8){:target="_blank"} by `Andrew Kelley`
 I'm also a runner, footballer and a chelsea fan who is making efforts to divide into more literature and generally reading more books. I knowww..
 
-Feel free to reach out to talk about anything through email at gibsonekezie@gmail.com.
+Feel free to reach out to talk about anything through email at `gibsonekezie@gmail.com`.
