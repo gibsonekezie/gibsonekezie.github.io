@@ -8,7 +8,7 @@ middle_name: O.
 last_name: Ekezie
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  these posts serve as a technical resource for learning and research . Based on [*the Puffing Tom](https://github.com/bogoli/-folio) design.
+  these posts serve as a technical resource for learning and research . Based on [*The Society Of Infrastructure](https://github.com/bogoli/-folio) design.
 footer_text: >
   Cloud Architecture, kubernetes, AI & ML Infra Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> & <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
@@ -120,7 +120,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: the Puffing Tom # blog_name will be displayed in your blog page
+blog_name: The Society Of Infrastructure # blog_name will be displayed in your blog page
 blog_description: these posts serve as a technical resource for learning and research
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
