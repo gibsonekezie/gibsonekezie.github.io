@@ -23,3 +23,5 @@ collection: books
 - [`The Anguish of Choice`](https://aeon.co/essays/re-reading-sartres-lecture-existentialism-is-a-humanism){:target="_blank"} _Sky C Cleary 2026_
 - [`Dead Language Society`](https://www.deadlanguagesociety.com/p/why-people-fail-at-learning-languages){:target="_blank"} _Colin Gorrie 2026_
 - [`Attention is All You Need`](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf){:target="_blank"} _Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin 2017_
+- [`Agents, Robots and Us: Skill partnership in the age of AI`](https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-skill-partnerships-in-the-age-of-ai){:target="_blank"} _Lareina Yee_
+- [`Backsliding On the paradox of Willpower`](https://harpers.org/archive/2026/07/backsliding-meghan-ogieblyn-willpower/){:target="_blank"} _Meghan O’Gieblyn_
