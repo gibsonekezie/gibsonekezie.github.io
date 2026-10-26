@@ -7,7 +7,7 @@ nav_order: 8
 collection: books
 ---
 
-> What an astonishing thing a book is. I'm trying to read more.
+> Just some guy trying to read more.
 
 ### Books, research papers, blog post, short stories or articles that I am reading or have read
 
