@@ -8,7 +8,8 @@ middle_name: O.
 last_name: Ekezie
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  these posts serve as a technical resource for learning and research . Based on [*The Society Of Infrastructure](https://github.com/bogoli/-folio) design.
+  "It is a myth -- widely believed but not less mythical for that -- that people are most creative when they are most free." -- Herbert Simon 
+  These posts serve as a technical resource for learning and research . Based on [*The Society Of Infrastructure](https://github.com/bogoli/-folio) design.
 footer_text: >
   Cloud Architecture, kubernetes, AI & ML Infra Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> & <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
