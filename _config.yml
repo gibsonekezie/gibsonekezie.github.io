@@ -121,7 +121,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: The Society Of Infrastructure # blog_name will be displayed in your blog page
-blog_description: It is a myth -- widely believed but not less mythical for that -- that people are most creative when they are most free. -- Herbert Simon. These posts serve as a technical resource for learning and research
+blog_description: It is a myth -- widely believed but not less mythical for that -- that people are most creative when they are most free. -- Herbert Simon.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
