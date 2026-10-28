@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: be curious... not judgemental
+subtitle: _be curious... not judgemental_
 
 profile:
   align: right
