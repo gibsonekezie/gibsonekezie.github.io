@@ -26,3 +26,4 @@ collection: books
 - [`Agents, Robots and Us: Skill partnership in the age of AI`](https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-skill-partnerships-in-the-age-of-ai){:target="_blank"} _Lareina Yee_
 - [`Backsliding On the paradox of Willpower`](https://harpers.org/archive/2026/07/backsliding-meghan-ogieblyn-willpower/){:target="_blank"} _Meghan O’Gieblyn_
 - [`The Economics of Intelligence: How and when does AGI lead to economic transformation`](https://institute.deepmind.com/essays/the-economics-of-intelligence/){:target="_blank"} _Alex Imas, Andrew Koh and Shane Legg_
+- [`The Gambler who cracked Horse-Racing Code`](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code){:target="_blank"} _Kit Chellel_
