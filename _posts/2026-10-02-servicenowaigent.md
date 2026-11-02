@@ -36,7 +36,7 @@ We took the step back with hopes of you understanding that the logic is the same
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/post/servicenow_build_aiagent/servicenowaigent.drawio.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/post/servicenow_build_aiagent/Servicenowaigent.drawio.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 One thing you need to remember is servicenow comes with an ai agent orchestrator by default therefore the first hurdle to overcome is to avoid confusing the agent orchestrator. You can achieve that by ensuring that your agent’s name and description is unique and there are no agents pre-built or custom-built agents in your catalogue that performs the same function or similar functions as the agent you’re building.
