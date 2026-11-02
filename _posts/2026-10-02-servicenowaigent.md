@@ -26,12 +26,19 @@ Then we can say, an AI agent is a software program that utilizes artificial inte
 
 This is a fun architecture of an ai agent
 
-![AI agent fun architecture](assets/img/post/servicenow_build_aiagent/agentx.jpg)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/post/servicenow_build_aiagent/agentx.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 We took the step back with hopes of you understanding that the logic is the same for servicnow ai agent under the hood. Now let’s look at a technical diagram of servicenow ai agent architecture components:
 
-![Servicenow AI agent architecture components](assets/img/post/servicenow_build_aiagent/servicenowaiagent.drawio.png)
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/post/servicenow_build_aiagent/servicenowaiagent.drawio.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 One thing you need to remember is servicenow comes with an ai agent orchestrator by default therefore the first hurdle to overcome is to avoid confusing the agent orchestrator. You can achieve that by ensuring that your agent’s name and description is unique and there are no agents pre-built or custom-built agents in your catalogue that performs the same function or similar functions as the agent you’re building.
 
 Since you enjoy key points soo much, here are some more key points to consider when building a servicenow ai agent:
