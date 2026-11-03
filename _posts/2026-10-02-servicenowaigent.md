@@ -69,4 +69,4 @@ The writing principles are simply:
 
 SideBar: Personally, when it comes to building a servicenow ai agent to complete a task. I feel it’s better when you’ve completed the task yourself at least once that way you can provide explicit step by step instructions when building the agent.
 
-**I believe your ready to get your hands dirty; Here’s is a simple [lab exercise](https://github.com/gibsonekezie/servicenow_ai_agent) to complete.**
+**I believe you are ready to get your hands dirty; Here’s is a simple [lab exercise](https://github.com/gibsonekezie/servicenow_ai_agent) to complete.**
