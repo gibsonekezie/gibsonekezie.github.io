@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to build a Servicenow AI agents
+title: How to build a Servicenow AI agent
 date: 2026-10-02 20:01:00
 description: This post simplifies the development of servicenow ai agent.
 tags: code
