@@ -5,7 +5,6 @@ date: 2026-10-02 20:01:00
 description: This post simplifies the development of servicenow ai agent.
 tags: code
 categories: Servicenow AI Agent
-thumbnail: assets/img/post/servicenow_build_aiagent/snowt.jpg
 ---
 
 **So, how do you do it?**
