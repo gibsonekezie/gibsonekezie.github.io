@@ -28,3 +28,4 @@ collection: books
 - [`The Economics of Intelligence: How and when does AGI lead to economic transformation`](https://institute.deepmind.com/essays/the-economics-of-intelligence/){:target="_blank"} _Alex Imas, Andrew Koh and Shane Legg_
 - [`The Gambler who cracked Horse-Racing Code`](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code){:target="_blank"} _Kit Chellel_
 - [`Validate GPU readiness before AI workload`](https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/){:target="_blank"} _Dhvani Chheda, and Kai Wombacher_
+- [`How To Apply For Graduate School`](https://yuhuawang.scholars.harvard.edu/sites/g/files/omnuum8221/files/2026-11/Writing%20Statement%20of%20Purpose%20for%20Graduate%20School%20Application_2026_Yuhua%20Wang.pdf){:target="_blank"} _Yuhua Wang_
